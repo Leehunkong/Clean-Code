@@ -15,7 +15,7 @@ from gtts import gTTS
 from threading import Thread
 
 load_dotenv()
-openai.api_key = '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'
+openai.api_key = 'Api key'
 model = 'gpt-3.5-turbo'
 
 # Set up the speech recognition and text-to-speech engines
