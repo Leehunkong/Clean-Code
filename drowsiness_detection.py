@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 import speech_recognition as sr
 from gtts import gTTS
 
-openai.api_key = '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'
+openai.api_key = 'Api key'
 load_dotenv()
 model = 'gpt-3.5-turbo'
 
